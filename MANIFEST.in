@@ -1,0 +1,5 @@
+include README.md
+include LICENSE
+recursive-include autonix/core *
+recursive-include autonix/examples *
+recursive-include autonix/tests *
