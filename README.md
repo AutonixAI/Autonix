@@ -120,5 +120,4 @@ A big thank you to:
 ## **Contact**
 
 - **Twitter**: [@autonixai](http://x.com/autonixai)
-- **Website**: [autonix.xyz](http://autonix.xyz)
 - **GitHub**: [github.com/AutonixAI/Autonix](http://github.com/AutonixAI/Autonix)
